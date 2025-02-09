@@ -1,16 +1,50 @@
 {
-    "TOKEN": "TOKEN",
-    "CLIENT_ID": "Bot_ID",
-    "GUILD_ID": "Server_ID",
+    "TOKEN": "MTMzNzczNzIwMjczNzg3Mjk3OQ.Gigmxs.M8bE6j3xqHuzXd2xLqgo11EqribxrPkG22I-Es",
+    "CLIENT_ID": "1337737202737872979",
+    "GUILD_ID": "1282715985765204192",
     "options": [
-        {
-            "name": "Section Name",
-            "admins": ["ID", "ID"],
-            "image": "LINK",
-            "emoji": "🛠️",
-            "logchannel": "ID",
-            "role": "ID"
-        }
-    ],
-    "managerLogChannel": "ID"
+       {
+      "name": " ادارة مـنـطـقـة حائل",
+      "admins": ["698593818399998012", ""],
+      "image": "https://media.discordapp.net/attachments/1336670294768746496/1337726062683095061/65656.gif?ex=67a87dfb&is=67a72c7b&hm=a3bcc7cb59db0a310ca367b400a267b3d959419a13fae6d3830f481a66c96e56&=",
+      "emoji": "🛠️",
+      "logchannel": "1336661508704178268",
+      "role": "1336660786298224671"
+    },
+    {
+      "name": "الامن العام",
+      "admins": ["698593818399998012", ""],
+      "image": "https://media.discordapp.net/attachments/1325614487235203143/1331144635346845706/443224ab84f0ebda.png?ex=67a8478c&is=67a6f60c&hm=5f0b546433dad376bb756240e5bac4ff365fc13ac138ff0a6b47c00cdded5554&=&format=webp&quality=lossless&width=701&height=701",
+      "emoji": "🚓",
+      "logchannel": "1337739916611944489",
+      "role": "1336660876991664200"
+    },
+    {
+      "name": "الهلال الاحمر",
+      "admins": ["698593818399998012", ""],
+      "image": "https://media.discordapp.net/attachments/1207196985107423272/1337515202870247638/1024px-____.jpg?ex=67a8625a&is=67a710da&hm=414efc9fe9e1421a6d3f908942b58014a1e49090327c1de178e22417409f4223&=&format=webp&width=701&height=701",
+      "emoji": "🏥",
+      "logchannel": "1337740552954708010",
+      "role": "1336660947607228427"
+    },
+    {
+      "name": "حدود الحرس",
+      "admins": ["ايديك", "698593818399998012"],
+      "image": "https://media.discordapp.net/attachments/1335060470922612758/1337138684327104555/logo_1.png?ex=67a85531&is=67a703b1&hm=eb873ee251d87e1429d228be3cd48572f69cb5637d713f6e57be5fc60180e6b2&=&format=webp&quality=lossless",
+      "emoji": "⚓",
+      "logchannel": "1337740446712991824",
+      "role": "1336660932402876426"
+    },
+    {
+      "name": "الـمـيـكـانـيـكـي",
+      "admins": ["ايديك", "698593818399998012"],
+      "image": "https://media.discordapp.net/attachments/1335060470922612758/1337517573176295425/pngegg.png?ex=67a8648f&is=67a7130f&hm=9c91177cb4b1224ee6e50037f574597d4894e43d72bd4a68f8a06d214db409a5&=&format=webp&quality=lossless&width=701&height=701",
+      "emoji": "🔧",
+      "logchannel": "1337740761730514996",
+      "role": "1336660972571721778"
+   }
+  ]
+}
+
+    "managerLogChannel": "1337742247013253151"
 }
